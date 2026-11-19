@@ -141,7 +141,7 @@ TEST_SUITE = [
                 "constraints",
                 "example",
                 "edge case",
-                "SELECT",
+                "SELECT", 
             ],
             "forbidden_phrases": [
                 "INSERT INTO",
