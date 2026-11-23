@@ -6,7 +6,7 @@ This repository documents my self-taught journey into AI engineering. Each folde
 
 ## Structure
 
-- [`src/prompt_engineering`](src/PROMPT_ENGINEERING) — Prompt patterns, injection tests, and multi-model comparisons.
+- [`src/prompt_engineering`](src/prompt_engineering) — Prompt patterns, injection tests, and multi-model comparisons.
 - [`src/R_A_G`](src/R_A_G) — Retrieval-Augmented Generation experiments.
 
 ## Setup
